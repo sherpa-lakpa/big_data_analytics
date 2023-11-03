@@ -1,0 +1,32 @@
+{
+    "header": {
+      "date": "2023-05-01",
+      "source": "Top Inc",
+      "destination": "Sister Corp"
+    },
+    "orders": [
+      {
+        "id": 1,
+        "product": "sample A",
+        "quantity": 10,
+        "price": 100
+      },
+      {
+        "id": 2,
+        "product": "sample B",
+        "quantity": 5,
+        "price": 50
+      },
+      {
+        "id": 3,
+        "product": "sample C",
+        "quantity": 3,
+        "price": 75
+      }
+    ],
+    "summary": {
+      "total_quantity": 18,
+      "total_price": 1750
+    }
+  }
+  
